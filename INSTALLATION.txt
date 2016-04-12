@@ -1,0 +1,30 @@
+
+mAdserve Open Source Mobile Ad Server - Version 2.0
+
+---------------------------------------------------
+
+System Requirements:
+
+PHP Version 5.3 or above with MySQL support.
+PHP SimpleXML Extension
+PHP cURL Extension OR fsocket suppport
+PHP mbstring extension
+
+Installation Instructions:
+
+1. Upload the contents of the 'upload' directory onto a public directory on your web server.
+
+2. Once uploaded, open the mAdserve Installation Wizard at http://www.yourserver.com/www/cp/install.php and follow the installation instructions.
+
+Replace http://www.yourserver.com with the public address of your web server.
+
+Implementing the mAdserve Advertising SDK:
+
+You can find the mAdserve iOS and Android SDKs inside the /sdk directory of your mAdserve ZIP. These SDKs are required for displaying Banner and Interstitial ads inside your iOS/Android applications.
+
+For SDK Integration instructions, please refer to the installation guides in the respective SDK folders.
+
+
+More Information about mAdserve: http://www.madserve.org
+
+If you encounter any problems or questions, please visit the mAdserve help center at http://help.madserve.org
